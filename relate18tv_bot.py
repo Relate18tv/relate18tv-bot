@@ -11,7 +11,7 @@ from telegram.ext import (
     CallbackQueryHandler, filters, ContextTypes, ConversationHandler
 )
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with token from @BotFather
+BOT_TOKEN = "8653574180:AAFaOC1f6JWpXWVi015w1cIGg_VK9VH2Nzc"  # Replace with token from @BotFather
 ADMIN_ID = 1113585793  # @CEORelate18tv — receives all "ready" notifications
 
 logging.basicConfig(level=logging.INFO)
